@@ -1,2 +1,2 @@
-# XOR-Numpy-Implementation
+# XOR-nn
   XOR using backpropagation made with numpy. 
